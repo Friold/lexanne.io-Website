@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<physical-properties-and-spectra>
+   <substance-uri registry-number="1000000010">substance/pt/1000000010</substance-uri>
+   <version>1498698985592</version>
+   <status>active</status>
+   <properties>
+      <preferred-values>
+         <predicted-boiling-point>
+            <standard-single-value>835.1</standard-single-value>
+            <standard-unit>°C</standard-unit>
+            <standard-uncertainty-value>65.0</standard-uncertainty-value>
+            <predicted-property-pressure-condition>
+               <standard-single-value>760</standard-single-value>
+               <standard-unit>Torr</standard-unit>
+               <display-value>760 Torr</display-value>
+            </predicted-property-pressure-condition>
+            <attribution-group>
+               <attribution-code>ACD</attribution-code>
+               <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+            </attribution-group>
+            <display-value>835.1±65.0 °C</display-value>
+         </predicted-boiling-point>
+         <predicted-density>
+            <standard-single-value>1.55</standard-single-value>
+            <standard-unit>
+               g/cm
+               <sup>3</sup>
+            </standard-unit>
+            <standard-uncertainty-value>0.1</standard-uncertainty-value>
+            <predicted-property-temperature-condition>
+               <standard-single-value>20</standard-single-value>
+               <standard-unit>°C</standard-unit>
+               <display-value>20 °C</display-value>
+            </predicted-property-temperature-condition>
+            <predicted-property-pressure-condition>
+               <standard-single-value>760</standard-single-value>
+               <standard-unit>Torr</standard-unit>
+               <display-value>760 Torr</display-value>
+            </predicted-property-pressure-condition>
+            <attribution-group>
+               <attribution-code>ACD</attribution-code>
+               <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+            </attribution-group>
+            <display-value>
+               1.55±0.1 g/cm
+               <sup>3</sup>
+            </display-value>
+         </predicted-density>
+         <predicted-pKa>
+            <standard-single-value>10.50</standard-single-value>
+            <standard-uncertainty-value>0.40</standard-uncertainty-value>
+            <pKa-type>Most Acidic</pKa-type>
+            <predicted-property-temperature-condition>
+               <standard-single-value>25</standard-single-value>
+               <standard-unit>°C</standard-unit>
+               <display-value>25 °C</display-value>
+            </predicted-property-temperature-condition>
+            <attribution-group>
+               <attribution-code>ACD</attribution-code>
+               <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+            </attribution-group>
+            <display-value>10.50±0.40</display-value>
+         </predicted-pKa>
+      </preferred-values>
+      <predicted-properties>
+         <predicted-boiling-points>
+            <predicted-boiling-point>
+               <standard-single-value>835.1</standard-single-value>
+               <standard-unit>°C</standard-unit>
+               <standard-uncertainty-value>65.0</standard-uncertainty-value>
+               <predicted-property-pressure-condition>
+                  <standard-single-value>760</standard-single-value>
+                  <standard-unit>Torr</standard-unit>
+                  <display-value>760 Torr</display-value>
+               </predicted-property-pressure-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>835.1±65.0 °C</display-value>
+            </predicted-boiling-point>
+         </predicted-boiling-points>
+         <predicted-densities>
+            <predicted-density>
+               <standard-single-value>1.55</standard-single-value>
+               <standard-unit>
+                  g/cm
+                  <sup>3</sup>
+               </standard-unit>
+               <standard-uncertainty-value>0.1</standard-uncertainty-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>20</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>20 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pressure-condition>
+                  <standard-single-value>760</standard-single-value>
+                  <standard-unit>Torr</standard-unit>
+                  <display-value>760 Torr</display-value>
+               </predicted-property-pressure-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  1.55±0.1 g/cm
+                  <sup>3</sup>
+               </display-value>
+            </predicted-density>
+         </predicted-densities>
+         <predicted-molar-volumes>
+            <predicted-molar-volume>
+               <standard-single-value>378.8</standard-single-value>
+               <standard-unit>
+                  cm
+                  <sup>3</sup>
+                  /mol
+               </standard-unit>
+               <standard-uncertainty-value>5.0</standard-uncertainty-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>20</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>20 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pressure-condition>
+                  <standard-single-value>760</standard-single-value>
+                  <standard-unit>Torr</standard-unit>
+                  <display-value>760 Torr</display-value>
+               </predicted-property-pressure-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  378.8±5.0 cm
+                  <sup>3</sup>
+                  /mol
+               </display-value>
+            </predicted-molar-volume>
+         </predicted-molar-volumes>
+         <predicted-enthalpies-of-vaporization>
+            <predicted-enthalpy-of-vaporization>
+               <standard-single-value>127.20</standard-single-value>
+               <standard-unit>kJ/mol</standard-unit>
+               <standard-uncertainty-value>3.0</standard-uncertainty-value>
+               <predicted-property-pressure-condition>
+                  <standard-single-value>760</standard-single-value>
+                  <standard-unit>Torr</standard-unit>
+                  <display-value>760 Torr</display-value>
+               </predicted-property-pressure-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>127.20±3.0 kJ/mol</display-value>
+            </predicted-enthalpy-of-vaporization>
+         </predicted-enthalpies-of-vaporization>
+         <predicted-logPs>
+            <predicted-logP>
+               <standard-single-value>0.427</standard-single-value>
+               <standard-uncertainty-value>0.618</standard-uncertainty-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.427±0.618</display-value>
+            </predicted-logP>
+         </predicted-logPs>
+         <predicted-vapor-pressures>
+            <predicted-vapor-pressure>
+               <standard-single-value>1.40E-29</standard-single-value>
+               <standard-unit>Torr</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  1.40 x 10
+                  <sup>-29</sup>
+                  Torr
+               </display-value>
+            </predicted-vapor-pressure>
+         </predicted-vapor-pressures>
+         <predicted-logDs>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>1</standard-single-value>
+                  <display-value>1</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>2</standard-single-value>
+                  <display-value>2</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>3</standard-single-value>
+                  <display-value>3</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>4</standard-single-value>
+                  <display-value>4</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>5</standard-single-value>
+                  <display-value>5</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>6</standard-single-value>
+                  <display-value>6</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>7</standard-single-value>
+                  <display-value>7</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.43</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>8</standard-single-value>
+                  <display-value>8</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.43</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.41</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>9</standard-single-value>
+                  <display-value>9</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.41</display-value>
+            </predicted-logD>
+            <predicted-logD>
+               <standard-single-value>0.31</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>10</standard-single-value>
+                  <display-value>10</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>0.31</display-value>
+            </predicted-logD>
+         </predicted-logDs>
+         <predicted-pKas>
+            <predicted-pKa>
+               <standard-single-value>10.50</standard-single-value>
+               <standard-uncertainty-value>0.40</standard-uncertainty-value>
+               <pKa-type>Most Acidic</pKa-type>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>10.50±0.40</display-value>
+            </predicted-pKa>
+         </predicted-pKas>
+         <predicted-bioconcentration-factors>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>1</standard-single-value>
+                  <display-value>1</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>2</standard-single-value>
+                  <display-value>2</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>3</standard-single-value>
+                  <display-value>3</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>4</standard-single-value>
+                  <display-value>4</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>5</standard-single-value>
+                  <display-value>5</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>6</standard-single-value>
+                  <display-value>6</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>7</standard-single-value>
+                  <display-value>7</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.24</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>8</standard-single-value>
+                  <display-value>8</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.24</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.20</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>9</standard-single-value>
+                  <display-value>9</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.20</display-value>
+            </predicted-bioconcentration-factor>
+            <predicted-bioconcentration-factor>
+               <standard-single-value>1.0</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>10</standard-single-value>
+                  <display-value>10</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>1.0</display-value>
+            </predicted-bioconcentration-factor>
+         </predicted-bioconcentration-factors>
+         <predicted-Kocs>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>1</standard-single-value>
+                  <display-value>1</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>2</standard-single-value>
+                  <display-value>2</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>3</standard-single-value>
+                  <display-value>3</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>4</standard-single-value>
+                  <display-value>4</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>5</standard-single-value>
+                  <display-value>5</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.65</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>6</standard-single-value>
+                  <display-value>6</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.7</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.64</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>7</standard-single-value>
+                  <display-value>7</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.6</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>40.52</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>8</standard-single-value>
+                  <display-value>8</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>40.5</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>39.39</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>9</standard-single-value>
+                  <display-value>9</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>39.4</display-value>
+            </predicted-Koc>
+            <predicted-Koc>
+               <standard-single-value>30.80</standard-single-value>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <predicted-property-pH-condition>
+                  <standard-single-value>10</standard-single-value>
+                  <display-value>10</display-value>
+               </predicted-property-pH-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>30.8</display-value>
+            </predicted-Koc>
+         </predicted-Kocs>
+         <predicted-mass-solubilities>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>1</standard-single-value>
+                  <display-value>1</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>2</standard-single-value>
+                  <display-value>2</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>3</standard-single-value>
+                  <display-value>3</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>4</standard-single-value>
+                  <display-value>4</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>5</standard-single-value>
+                  <display-value>5</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>6</standard-single-value>
+                  <display-value>6</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>7</standard-single-value>
+                  <display-value>7</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>8</standard-single-value>
+                  <display-value>8</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0026</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.6 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>9</standard-single-value>
+                  <display-value>9</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0033</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  3.3 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>10</standard-single-value>
+                  <display-value>10</display-value>
+               </predicted-property-pH-condition>
+            </predicted-mass-solubility>
+            <predicted-mass-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+               <predicted-property-pH-in-unbuffered-water>
+                  <standard-single-value>7.00</standard-single-value>
+                  <display-value>7.00</display-value>
+               </predicted-property-pH-in-unbuffered-water>
+            </predicted-mass-solubility>
+         </predicted-mass-solubilities>
+         <predicted-mass-intrinsic-solubilities>
+            <predicted-mass-intrinsic-solubility>
+               <standard-single-value>0.0025</standard-single-value>
+               <standard-unit>g/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  2.5 x 10
+                  <sup>-3</sup>
+                  g/L
+               </display-value>
+            </predicted-mass-intrinsic-solubility>
+         </predicted-mass-intrinsic-solubilities>
+         <predicted-molar-solubilities>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>1</standard-single-value>
+                  <display-value>1</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>2</standard-single-value>
+                  <display-value>2</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>3</standard-single-value>
+                  <display-value>3</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>4</standard-single-value>
+                  <display-value>4</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>5</standard-single-value>
+                  <display-value>5</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>6</standard-single-value>
+                  <display-value>6</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>7</standard-single-value>
+                  <display-value>7</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>8</standard-single-value>
+                  <display-value>8</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000044</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.4 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>9</standard-single-value>
+                  <display-value>9</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000056</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  5.6 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-condition>
+                  <standard-single-value>10</standard-single-value>
+                  <display-value>10</display-value>
+               </predicted-property-pH-condition>
+            </predicted-molar-solubility>
+            <predicted-molar-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+               <predicted-property-pH-in-unbuffered-water>
+                  <standard-single-value>7.00</standard-single-value>
+                  <display-value>7.00</display-value>
+               </predicted-property-pH-in-unbuffered-water>
+            </predicted-molar-solubility>
+         </predicted-molar-solubilities>
+         <predicted-molar-intrinsic-solubilities>
+            <predicted-molar-intrinsic-solubility>
+               <standard-single-value>0.0000043</standard-single-value>
+               <standard-unit>mol/L</standard-unit>
+               <predicted-property-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-property-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  4.3 x 10
+                  <sup>-6</sup>
+                  mol/L
+               </display-value>
+            </predicted-molar-intrinsic-solubility>
+         </predicted-molar-intrinsic-solubilities>
+         <predicted-flash-points>
+            <predicted-flash-point>
+               <standard-single-value>274.6</standard-single-value>
+               <standard-unit>°C</standard-unit>
+               <standard-uncertainty-value>27.8</standard-uncertainty-value>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>274.6±27.8 °C</display-value>
+            </predicted-flash-point>
+         </predicted-flash-points>
+         <predicted-hydrogen-acceptors-counts>
+            <predicted-hydrogen-acceptors>
+               <standard-single-value>13</standard-single-value>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>13</display-value>
+            </predicted-hydrogen-acceptors>
+         </predicted-hydrogen-acceptors-counts>
+         <predicted-hydrogen-donor-acceptor-sums>
+            <predicted-hydrogen-donor-acceptor-sum>
+               <standard-single-value>18</standard-single-value>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>18</display-value>
+            </predicted-hydrogen-donor-acceptor-sum>
+         </predicted-hydrogen-donor-acceptor-sums>
+         <predicted-freely-rotatable-bonds-counts>
+            <predicted-freely-rotatable-bonds>
+               <standard-single-value>11</standard-single-value>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>11</display-value>
+            </predicted-freely-rotatable-bonds>
+         </predicted-freely-rotatable-bonds-counts>
+         <predicted-hydrogen-donors-counts>
+            <predicted-hydrogen-donors>
+               <standard-single-value>5</standard-single-value>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>5</display-value>
+            </predicted-hydrogen-donors>
+         </predicted-hydrogen-donors-counts>
+         <predicted-polar-surface-areas>
+            <predicted-polar-surface-area>
+               <standard-single-value>182.83</standard-single-value>
+               <standard-unit>
+                  A
+                  <sup>2</sup>
+               </standard-unit>
+               <attribution-group>
+                  <attribution-code>ACD</attribution-code>
+                  <full-attribution-text>Calculated using Advanced Chemistry Development (ACD/Labs) Software V11.02 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+               <display-value>
+                  183 A
+                  <sup>2</sup>
+               </display-value>
+            </predicted-polar-surface-area>
+         </predicted-polar-surface-areas>
+      </predicted-properties>
+   </properties>
+   <spectra>
+      <predicted-spectra>
+         <predicted-NMR-spectra>
+            <predicted-proton-1H-NMR>
+               <spectrum-ID>1000000010-HNMR</spectrum-ID>
+               <observed-nucleus>
+                  <sup>1</sup>
+                  H
+               </observed-nucleus>
+               <spectral-data>
+                  <jcamp-uri>substance/pt/jcamp/1000000010-HNMR</jcamp-uri>
+               </spectral-data>
+               <predicted-spectrum-standard-condition>
+                  <substance-uri registry-number="75763">substance/pt/75763</substance-uri>
+                  <standard-name>tetramethylsilane</standard-name>
+                  <display-name>Tetramethylsilane</display-name>
+                  <display-value>Tetramethylsilane</display-value>
+               </predicted-spectrum-standard-condition>
+               <predicted-spectrum-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-spectrum-temperature-condition>
+               <predicted-spectrum-working-frequency-condition>
+                  <standard-single-value>400</standard-single-value>
+                  <standard-unit>MHz</standard-unit>
+                  <display-value>400 MHz</display-value>
+               </predicted-spectrum-working-frequency-condition>
+               <attribution-group>
+                  <attribution-code>ACDNMR</attribution-code>
+                  <full-attribution-text>Predicted NMR data calculated using Advanced Chemistry Development, Inc. (ACD/Labs) Software V11.01 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+            </predicted-proton-1H-NMR>
+            <predicted-Carbon-13-NMR>
+               <spectrum-ID>1000000010-CNMR</spectrum-ID>
+               <observed-nucleus>
+                  <sup>13</sup>
+                  C
+               </observed-nucleus>
+               <spectral-data>
+                  <jcamp-uri>substance/pt/jcamp/1000000010-CNMR</jcamp-uri>
+               </spectral-data>
+               <predicted-spectrum-standard-condition>
+                  <substance-uri registry-number="75763">substance/pt/75763</substance-uri>
+                  <standard-name>tetramethylsilane</standard-name>
+                  <display-name>Tetramethylsilane</display-name>
+                  <display-value>Tetramethylsilane</display-value>
+               </predicted-spectrum-standard-condition>
+               <predicted-spectrum-temperature-condition>
+                  <standard-single-value>25</standard-single-value>
+                  <standard-unit>°C</standard-unit>
+                  <display-value>25 °C</display-value>
+               </predicted-spectrum-temperature-condition>
+               <attribution-group>
+                  <attribution-code>ACDNMR</attribution-code>
+                  <full-attribution-text>Predicted NMR data calculated using Advanced Chemistry Development, Inc. (ACD/Labs) Software V11.01 (© 1994-${currentYear} ACD/Labs)</full-attribution-text>
+               </attribution-group>
+            </predicted-Carbon-13-NMR>
+         </predicted-NMR-spectra>
+      </predicted-spectra>
+   </spectra>
+</physical-properties-and-spectra>
